@@ -40,7 +40,7 @@ Download Node.js from : https://nodejs.org/en/download/
 
 - **Truffle**
 
-      sudo npm install -g truffle
+      npm install -g truffle
 
 - **Ganache** installation guide can be found in [here](https://www.trufflesuite.com/ganache).
 
