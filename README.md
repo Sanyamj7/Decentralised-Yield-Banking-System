@@ -36,8 +36,7 @@ Here is the application software architecture work-flow:
 ### Setup
 
 - **Node.js**
-
-      https://nodejs.org/en/download/
+Download Node.js from : https://nodejs.org/en/download/
 
 - **Truffle**
 
