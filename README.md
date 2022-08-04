@@ -34,7 +34,9 @@ Here is the application software architecture work-flow:
 ## Installation
 
 ### Setup
+- **Clone**
 
+      git clone https://github.com/Sanyamj7/Decentralised-Yield-Banking-System.git
 - **Node.js**
 Download Node.js from : https://nodejs.org/en/download/
 
