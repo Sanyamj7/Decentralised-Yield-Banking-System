@@ -6,7 +6,7 @@ import RWD from '../abis/RWD.json'
 import DecentralBank from '../abis/DecentralBank.json'
 import Main from './Main.js'
 import "./App.css"
-import Airdrop from "./Airdrop";
+// import Airdrop from "./Airdrop";
 class App extends Component {
     async componentWillMount() {
         await this.loadWeb3()
@@ -109,7 +109,7 @@ class App extends Component {
     }
     render() {
         let content
-        {
+//         {
             this.state.loading ? content =
                 <p id='loader' className="text-center" style={{ margin: '30px' }}>
                     LOADING PLEASE...</p> : content = <Main 
@@ -120,7 +120,7 @@ class App extends Component {
                     unstakeTokens={this.unstakeTokens}
                     issueTokens={this.issueTokens}
                     />
-        }
+//         }
         return (
             <div className="image">
                 <Navbar account={this.state.account} />
