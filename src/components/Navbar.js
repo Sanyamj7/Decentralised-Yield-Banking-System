@@ -6,7 +6,7 @@ import React, { Component } from 'react'
 class Navbar extends Component {
   render() {
     return (
-      <nav className='navbar navbar-dark fixed-top shadow p-1' style={{backgroundColor:'black', height:'80px'}}>
+      <nav className='navbar navbar-dark fixed-top shadow p-1' style={{backgroundColor:'black', height:'72px'}}>
         <a className='navbar-brand col-sm-3 col-md-1 mr-0' href="/" 
         style={{color:'white'}}>
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPiy9azZPdfyML6JKEW7BdBXKeodkjdeqkQ&usqp=CAU' width={80} height={40} className='d-inline-block align-top' alt=''/>
