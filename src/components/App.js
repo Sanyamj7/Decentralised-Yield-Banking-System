@@ -6,6 +6,7 @@ import RWD from '../abis/RWD.json'
 import DecentralBank from '../abis/DecentralBank.json'
 import Main from './Main.js'
 import "./App.css"
+import ParticleSettings from "./ParticleSettings";
 // import Airdrop from "./Airdrop";
 class App extends Component {
     async componentWillMount() {
@@ -123,6 +124,9 @@ class App extends Component {
 //         }
         return (
             <div className="image">
+            <div style={{position:'absolute'}}>
+                    <ParticleSettings/>
+                </div>
                 <Navbar account={this.state.account} />
                 <div className="container-fluid mt-5 row">
                     <main role="main" className='col-lg-12 ml-auto mr-auto' style={{ maxWidth: '600px', minHeight: '100vm' }}>
