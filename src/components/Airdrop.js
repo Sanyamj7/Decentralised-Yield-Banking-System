@@ -48,7 +48,7 @@ class Airdrop extends Component {
     }
     airdropTokens() {
         let stakingB = this.props.stakingBalance
-        if(stakingB >= '5000000000000000'){
+        if(stakingB >= '1'){
             this.startTimer()
             if(this.state.time.s === 0){
                 this.props.issueTokens()
