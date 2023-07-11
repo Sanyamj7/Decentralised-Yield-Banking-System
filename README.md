@@ -61,4 +61,12 @@ Download Node.js from : https://nodejs.org/en/download/
 - Deploy and run the front-end application
 
       npm start
+### Demo and Screenshots
+<p align="center">
+      <img src="https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/26143dcb-9112-43e0-affb-4f824c9a2ae1.jpg">
+</p>
+https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/2b978974-463a-4dfd-8f6a-14cd005633ad.mp4
+https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/f39edf02-0f6d-4242-8cfb-c98da87cda60.mp4
 
+
+      
