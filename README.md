@@ -65,8 +65,14 @@ Download Node.js from : https://nodejs.org/en/download/
 <p align="center">
       <img src="https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/26143dcb-9112-43e0-affb-4f824c9a2ae1.jpg">
 </p>
-https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/2b978974-463a-4dfd-8f6a-14cd005633ad.mp4
-https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/f39edf02-0f6d-4242-8cfb-c98da87cda60.mp4
+
+
+https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/56968af1-fd3d-4c34-b1db-3d77dcc6a583
+
+
+
+https://github.com/Sanyamj7/Decentralised-Yield-Banking-System/assets/72522205/df9ced53-04b1-4ba7-9f9e-ac4add355980
+
 
 
       
