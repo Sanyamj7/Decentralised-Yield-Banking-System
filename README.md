@@ -10,7 +10,7 @@ This repository presents practices about:
 ---
 
 You can check the quick tutorial about "what is the blockchain?" in [here](https://www.ibm.com/in-en/topics/what-is-blockchain).
-Click to get the tutorial of the project.[here](https://main--admirable-clafoutis-b636e5.netlify.app/)
+
 
 
 ## Theory
